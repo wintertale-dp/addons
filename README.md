@@ -1,4 +1,4 @@
-### Wintertale Addons
+### Wintertale Addons<br>
 addons represent packs of in-game tweaks and changes
 ------------
 
